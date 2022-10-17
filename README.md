@@ -1,4 +1,4 @@
-# Patika Veri-Yapıları-ve-Algoritmalar
+# Patika Veri Yapıları ve Algoritmalar
 
 Patika.dev'in Veri Yapıları ve Algoritmaları dersini bitirme projesidir.
 
