@@ -170,4 +170,4 @@ Patika.dev'in Veri Yapıları ve Algoritmaları dersini bitirme projesidir.
  ```
  
  
- www.patika.dev
+
