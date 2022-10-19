@@ -169,5 +169,6 @@ Patika.dev'in Veri Yapıları ve Algoritmaları dersini bitirme projesidir.
    2   4
  ```
  
+ Patika.net
  
 
